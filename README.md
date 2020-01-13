@@ -3,7 +3,7 @@ Network design and implementation project using Visio
 
 Final Deliverable includes:
 
-Office diagram with wiring plan
-Rack diagram with wiring plan
-Upfront and ongoing costs summary
-Purchase orders for each vendor
+1.Office diagram with wiring plan
+2.Rack diagram with wiring plan
+3.Upfront and ongoing costs summary
+4.Purchase orders for each vendor
