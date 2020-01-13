@@ -1,5 +1,6 @@
 # LAN-Project
-Network design and implementation project using Visio
+Network design and implementation 
+This project was created by using Visio and Excell
 
 Final Deliverable includes:
 
